@@ -1,0 +1,9 @@
+Class:card cardnum ui-droppable added ===== to get all players in the squad
+
+style:z-index:22; ===== to get the element of the player details
+
+data-player-commom ===== to get the player name
+
+sbc ===== ut-tab-bar-item icon-sbc > class
+
+ch name ===== tileHeader > class
